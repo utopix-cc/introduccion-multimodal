@@ -3,12 +3,60 @@
     <title>Introducción a la educación multimodal</title>
     <link href="https://multimodal.utopix.cc/feed.xml" rel="self" />
     <link href="https://multimodal.utopix.cc" />
-    <updated>2021-09-01T11:35:56-04:00</updated>
+    <updated>2021-09-01T11:39:05-04:00</updated>
     <author>
         <name>Utopix</name>
     </author>
     <id>https://multimodal.utopix.cc</id>
 
+    <entry>
+        <title>Lección 3</title>
+        <author>
+            <name>Utopix</name>
+        </author>
+        <link href="https://multimodal.utopix.cc/leccion-3.html"/>
+        <id>https://multimodal.utopix.cc/leccion-3.html</id>
+
+        <updated>2021-09-01T11:39:05-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>En construcción</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lección 2</title>
+        <author>
+            <name>Utopix</name>
+        </author>
+        <link href="https://multimodal.utopix.cc/leccion-2.html"/>
+        <id>https://multimodal.utopix.cc/leccion-2.html</id>
+
+        <updated>2021-09-01T11:38:55-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>En construcción</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lección 1</title>
+        <author>
+            <name>Utopix</name>
+        </author>
+        <link href="https://multimodal.utopix.cc/leccion-1.html"/>
+        <id>https://multimodal.utopix.cc/leccion-1.html</id>
+
+        <updated>2021-09-01T11:38:41-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>En construcción</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Descripción del taller</title>
         <author>
